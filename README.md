@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
