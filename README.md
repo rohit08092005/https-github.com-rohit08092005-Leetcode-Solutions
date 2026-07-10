@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
