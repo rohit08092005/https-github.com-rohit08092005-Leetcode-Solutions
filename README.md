@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
