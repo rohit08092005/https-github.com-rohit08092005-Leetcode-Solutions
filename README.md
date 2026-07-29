@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0595-big-countries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
