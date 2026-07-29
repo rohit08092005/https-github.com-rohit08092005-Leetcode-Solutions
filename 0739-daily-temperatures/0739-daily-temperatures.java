@@ -2,9 +2,6 @@ class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
 
         int answer[] = new int[temperatures.length];
-        for(int i=0;i<temperatures.length;i++){
-            answer[i]=0;
-        }
         Stack <Integer> stack = new Stack <>();
         for(int i=temperatures.length-1 ; i>=0; i--){
 
