@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Divide and Conquer
 |  |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
