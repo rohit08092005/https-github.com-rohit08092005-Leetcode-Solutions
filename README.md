@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [3731-find-missing-elements](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0148-sort-list) |
+| [3731-find-missing-elements](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
