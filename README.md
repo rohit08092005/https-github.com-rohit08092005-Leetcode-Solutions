@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
