@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rohit08092005/https-github.com-rohit08092005-Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
